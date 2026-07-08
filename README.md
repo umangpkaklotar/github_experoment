@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29803051/README.md)
+
 <h1 align="center">Hi 👋, I'm Umang</h1>
 <h3 align="center">A passionate GEN AI Aspirant from India</h3>
 
