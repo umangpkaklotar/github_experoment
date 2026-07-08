@@ -1,0 +1,32 @@
+1th sept = add new repo
+2th sept = add your GitHub repo link
+    => git clone "add link"
+3th sept= check the status 
+    your status is main this is ok but not to main to change the status 
+    => git status
+4th sept = add and commit 
+   => only 1 file to add than use this commend 
+      =>git add file name 
+    => multiple file add than use this commend
+        => git add .
+    
+5th sept = than use commit to upload for GitHub to use this commend
+    => git commit -m
+
+6th sept = than push the GitHub to use this commend
+    => git push origin main
+
+=====================================
+how to show folder how much file in folder 
+	command :- ls
+
+how to create branch 
+	command :- git checkout -b your-new-branch-name 
+
+how to GitHub file to send for local system this is git pull 
+	command :- git pull 
+
+how to GitHub repo in local system in folder this is git clone
+	command :- git clone than go to GitHub repo and go for code and than copy the https URL
+
+  
